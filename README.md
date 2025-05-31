@@ -25,6 +25,11 @@ A responsive NEtflix homepage clone built using **HTML**, **CSS**, and **JAVASCR
 
 ![Netflix Clone Preview](https://raw.githubusercontent.com/ChiragVasava/Netflix-clone/main/assets/images/Netflix.png)
 
+<!-- git add README.md
+git commit -m "Added project screenshot to README"
+git push origin main -->
+
+
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/ChiragVasava/Netflix-clone/main/assets/images/Netflix.png" width="700"/>
 </p> -->
