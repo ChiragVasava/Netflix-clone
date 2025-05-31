@@ -18,4 +18,4 @@ This is a front-end Netflix Clone project built using only HTML, CSS, and JavaSc
 <li>CSS3 – for styling, layout, and responsiveness</li>
 <li>JavaScript – for interactivity like sliders, menus, and button actions</li
 </ul>
-![Netflix Website Image](./assets/images/Netflix.png "Netflix")
+![Netflix Website Image](../assets/images/Netflix.png "Netflix")
